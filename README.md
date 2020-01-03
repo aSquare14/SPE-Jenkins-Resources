@@ -1,7 +1,8 @@
 
 #### How to use this repo ?
 
- - Follow the slides `Jenkins.pptx`.
+ - Follow the slides [from here](https://iiitborg-my.sharepoint.com/:p:/g/personal/atibhi_agrawal_iiitb_org/EQfGv0dfhfhErlkLgF5jJ1oBd-tkeoXhYBoDRxPsfDj6aQ?e=A4oJjI).
+ 
  - `install_java.md` contains instructions for installing java on Ubuntu.
  - `script.sh` contains the script to install jenkins. You can read up about the installation in detail in `install_jenkins.md`
  You can download the script and run it or else you can install manually using the install_jenkins file.
