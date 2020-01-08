@@ -2,9 +2,7 @@
 If you prefer to install a stable version of Jenkins, then follow these step in sequence:
 
 - Add the repository key to the system using the following command:
-`wget --no-check-certificate -q -O - \
-https://pkg.jenkins.io/debian-stable/jenkins-ci.org.key | \
-sudo apt-key add -`
+`wget -q -O - https://pkg.jenkins.io/debian/jenkins.io.key | sudo apt-key add -`
 
 - You should get an output of OK. Next, append the Debian package repository
 address using the following command:
